@@ -1,0 +1,6 @@
+{
+  "name": "MECHWORK",
+  "description": "B2B Industrial Marketplace connecting small mechanical workshops, CNC units & MSMEs with large OEMs and industrial buyers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
